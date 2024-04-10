@@ -71,7 +71,7 @@ public class Lotofacil {
             return;
         }
 
-        char letraPremiada = 'J'; // Escolha da letra premiada
+        char letraPremiada = 'B'; // Escolha da letra premiada
         if (letraApostada == letraPremiada) {
             System.out.println("Você ganhou R$ 500,00 reais.");
         } else {
